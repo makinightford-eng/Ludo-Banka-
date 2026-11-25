@@ -1,0 +1,10 @@
+DIAMOND PIXEL — LUDO (version installable)
+
+Le fichier index.html conserve le jeu d’origine. Les ajouts servent uniquement à permettre l’installation PWA et la mise en cache hors connexion après le premier chargement.
+
+TEST LOCAL :
+- Ouvrir index.html directement permet de jouer, mais le mode installable/service worker ne fonctionne pas depuis file://.
+- Pour tester l’installation, héberger le dossier sur un site HTTPS ou le lancer sur localhost.
+- Sur Android/Chrome : ouvrir le site hébergé, puis menu ⋮ > Installer l’application (ou Ajouter à l’écran d’accueil).
+
+Le mode en ligne reste celui du jeu d’origine (indiqué « bientôt »). Aucun serveur multijoueur n’a été ajouté.

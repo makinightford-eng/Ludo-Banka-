@@ -1,0 +1,15 @@
+{
+  "name": "Ludo",
+  "short_name": "Ludo",
+  "description": "Ludo classique — joue contre l’ordinateur ou à plusieurs.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e2250",
+  "theme_color": "#0e2250",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
